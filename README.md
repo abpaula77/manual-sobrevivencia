@@ -70,6 +70,8 @@ O arquivo principal contém 4 capítulos escritos colaborativamente:
 8. **Líder** cria `hotfix/ajuste-cantina` a partir da `main`, corrige e faz merge para `main` e `develop`
 
 ---
+<img width="322" height="203" alt="image" src="https://github.com/user-attachments/assets/17aa0982-e238-4bb9-99f2-48f04473f0d1" />
+---
 
 ## 📖 Documentação Adicional
 
