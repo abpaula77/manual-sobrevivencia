@@ -78,6 +78,13 @@ O arquivo principal contém 4 capítulos escritos colaborativamente:
 
 - [`ROTEIRO_COMANDOS.md`](ROTEIRO_COMANDOS.md) — Sequência completa de comandos Git para reproduzir este repositório do zero.
 
+### 🎓 Apresentações utilizadas em aula
+
+| Arquivo | Descrição |
+|---------|-----------|
+| [`ACBr_Developer_Blueprint.pdf`](ACBr_Developer_Blueprint.pdf) | Apresentação utilizada para a aula sobre o projeto ACBr e automação comercial |
+| [`Gitflow_Survival_Mission.pdf`](Gitflow_Survival_Mission.pdf) | Apresentação com as orientações para a atividade prática de Gitflow |
+
 ---
 
 ## 🛠️ Como Reproduzir
